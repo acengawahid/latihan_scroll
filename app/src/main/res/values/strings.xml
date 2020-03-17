@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">STMIK Sumedang Apps</string>
+    <string name="tv_title">Program Sumedang Desa</string>
+    <string name="tv_subtitle">Kerja Praktek STMIK Sumedang 2020</string>
+    <string name="tv_article">Mahasiswa STMIK Sumedang yang tergabung dalam kelompok kerja praktek (KKP) membantu mengembangkan sistem informasi desa.
+    Disamping sebagai mata kuliah kerja praktek, kegiatan ini juga menjadi salah satu bentuk pengabdian masyarakat dari STMIK Sumedang.\n
+        Pengabdian Masyarakat ini merupakan bagian dari Tri Dharma Perguruan Tinggi.
+    Hal ini disambut baik oleh Pemerintah Kabupaten Sumedang yang dalam hal ini sangat terbantu khususnya dalam memberdayakan masyarakat desa untuk melek teknologi.\n
+        Karena program dari Pemerintah adalah menjadikan Kota Sumedang sebagai <i>Digital Region</i>. Oleh karena itu, Adanya program kerja praktek ini diharapkan mampu meningkatkan kualitas sumber daya manusia (SDM) Sumedang di era revolusi industi 4.0 ini.\n
+        STMIK Sumedang memberikan layanan Sumedang Desa sebagai portal bagi website desa di Kabupaten Sumedang.\n
+    Berikut adalah Website/Sistem Informasi Desa :
+        \n 1. Desa Baginda   | baginda.sumedangdesa.id
+        \n 2. Desa Cibeureum | cibeureum.sumedangdesa.id
+        \n 3. Desa Cimalaka  | cimalaka.sumedangdesa.id
+        \n 4. Desa Cisarua   | cisarua.sumedangdesa.id
+        \n 5. Desa Cisitu    | cisitu.sumedangdesa.id
+        \n 6. Desa Conggeang | conggeang.sumedangdesa.id
+        \n 7. Desa Citengah  | citengah.sumedangdesa.id
+        \n 8. Desa Sukatali  | sukatali.sumedangdesa.id
+        \n Selengkapnya, Kunjungi Portal Web sumedangdesa.id
+        \n \n
+        Dengan adanya Sistem informasi ini akan sangat bermanfaat bagi pemerintahan desa sebagai sarana layanan administrasi dan publikasi kegiatan desa serta bagi masyarakat sebagai pusat informasi desa yang akurat.
+    </string>
+</resources>
